@@ -11,7 +11,7 @@ Pod::Spec.new do |spec|
   
   spec.name         = "DMGExtensionsTools"
 
-  spec.version      = "0.0.1"
+  spec.version      = "0.1.0"
 
   spec.summary      = "Extensions Libraries"
 
